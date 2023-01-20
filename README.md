@@ -1,1 +1,1 @@
-PyTorch RBM
+PyTorch RBM Mnist Test/Tutorial
